@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "TabPageViewController",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v16)
     ],
     dependencies: [],
     targets: [
